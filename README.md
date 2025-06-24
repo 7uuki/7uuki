@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Lukas Keller :)
 
-<!--
-**7uuki/7uuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 Dual Student at **BarmeniaGothaer**  
+🎓 Studying **Applied Mathematics and Computer Science (MATSE)**  
+📍 Based in Germany, Cologne
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://itkeller.com">
+    <img src="https://img.shields.io/badge/Personal%20Website-4a90e2?style=for-the-badge&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lukas-keller-52867b258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
